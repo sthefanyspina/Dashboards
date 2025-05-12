@@ -24,9 +24,9 @@ TeamHistories.csv
     </ul>
   </li>
 
-  <li>Explore the data>
+  <li>Explore the data:
     <ul>
-      <li></li>Used the function head to call the first 5 rows of the dataset. </li>
+      <li>Used the function head to call the first 5 rows of the dataset. </li>
       <li>Used the info function, that gives the number of columns, column labels, column data types, memory usage, range index, and the number of cells in each column (non-null values).</li>
       <li>Used the describe function, that gives some statistical data like percentile, mean and standard deviation of the numerical values of the Series or DataFrame.</li>
     </ul>
