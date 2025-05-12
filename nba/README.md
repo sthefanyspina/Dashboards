@@ -42,3 +42,5 @@
     <ul>I saved the data using the df.to_csv(new_name.csv, index=False)</ul>
   </li>
 </ol>
+
+![image](https://github.com/user-attachments/assets/5b688ca8-ac9b-4592-80f3-241a8c772169)
