@@ -1,6 +1,6 @@
 <H1>NBA Data Analysis and Dashboard</H1>
 
-<p>The National Basketball Association (NBA) is one of the most popular watched sports leagues in the world, with millions of fans tuning in to watch their favorite teams and players compete on the court. </p>
+<p>The National Basketball Association (NBA) is one of the most popular watched sports leagues in the world, with millions of fans tuning in to watch their favorite teams and players compete on the court. </p></br>
 
 <p>In this project I used three diferents datasets</p>
 <p>The first can me found in this link: https://www.kaggle.com/datasets/ulrikthygepedersen/nba-player-salaries</p>
@@ -13,8 +13,8 @@
 <p>I used the PlayerStatistics.csv - The centerpiece of the dataset, this file contains detailed box scores for every individual player in NBA history, game by game.</p>
 <p>And the Players.csv - Biographical information for every player, including height, weight, and position, enabling detailed player analysis across eras.</p></br>
 
-<ol> Steps:
-
+<p>Steps:</p>
+<ol> 
   <li> Load the csv file:
     <ul>
       <li>Used the read_csv() to load my dataset into a Pandas DataFrame.</li>
@@ -30,18 +30,13 @@
   </li>
 
   <li>Identify and Handle Missing Values:
-    <ul>isnull</ul>
-    <ul>dropna</ul>
-
+    <ul>Used isnull function to identify missing values in the dataset.</ul>
+    <ul>Used the dropna function to drop the missing/null values from our dataset.</ul>
   </li>
 
   <li>Data Type Conversion:
-    <ul>In this dataset I Data from various sources are usually messy and the data types of some values may be in the wrong format, for example some numerical values may come in 'float' or 'string' format instead of 'integer' format and a mix up of these formats leads to errors and wrong results. </ul>
+    <ul>In this dataset I didn't need to made any conversion, all the columns were with the correct types.</ul>
   </li>
-
-  <li>Padronizar e formatar dados</li>
-
-  <li>Filtrar e transformar dados</li>
 
   <li>Save the data
     <ul>I saved the data using the df.to_csv(new_name.csv, index=False)</ul>
