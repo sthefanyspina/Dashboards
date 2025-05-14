@@ -3,10 +3,10 @@
 <p>IMDB is one of the main sources which people use to judge the movie or show. IMDB rating plays an important role for a lot of people watching a movie or show. I watched Planet Earth II after finding out that it's at the top of the list on IMDB. I've created this dataset so that people can play with this dataset and do a lot of things as mentioned below. </p></br>
 
 <p>In this project I used two diferents datasets</p>
-<p>The first can me found in this link: https://www.kaggle.com/datasets/ulrikthygepedersen/nba-player-salaries](https://www.kaggle.com/datasets/karkavelrajaj/imdb-top-250-shows</p>
+<p>The first can me found in this link: https://www.kaggle.com/datasets/karkavelrajaj/imdb-top-250-shows</p>
 <p>This dataset is having the data of the top 250 Shows as per their IMDB rating listed on the official website of IMDB</p>
 
-<p>The second dataset can be found in this link: [https://www.kaggle.com/datasets/eoinamoore/historical-nba-data-and-player-box-scores](https://www.kaggle.com/datasets/karkavelrajaj/imdb-top-250-movies)</p>
+<p>The second dataset can be found in this link: https://www.kaggle.com/datasets/karkavelrajaj/imdb-top-250-movies</p>
 <p>This dataset is having the data of the top 250 Movies as per their IMDB rating listed on the official website of IMDB</p></br>
 
 <p>Steps:</p>
