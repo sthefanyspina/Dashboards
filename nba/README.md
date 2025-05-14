@@ -35,7 +35,7 @@
   </li>
 
   <li>Data Type Conversion:
-    <ul>In this dataset I didn't need to made any conversion, all the columns were with the correct types.</ul>
+    <ul>Used the astype to convert the column types.</ul>
   </li>
 
   <li>Save the data
