@@ -3,7 +3,7 @@
 <p>The National Basketball Association (NBA) is one of the most popular watched sports leagues in the world, with millions of fans tuning in to watch their favorite teams and players compete on the court. </p></br>
 
 <p>In this project I used the Video Games Sales dataset</p>
-<p>The first can me found in this link: [https://www.kaggle.com/datasets/ulrikthygepedersen/nba-player-salaries](https://www.kaggle.com/datasets/anandshaw2001/video-game-sales)</p>
+<p>The first can me found in this link: https://www.kaggle.com/datasets/anandshaw2001/video-game-sales</p>
 <p>This dataset contains video game sales data across different platforms, genres, and regions, making it valuable for various analytical and business use cases. </p> </br>
 
 <p>Steps:</p>
